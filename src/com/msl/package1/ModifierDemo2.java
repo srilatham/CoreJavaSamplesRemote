@@ -7,7 +7,7 @@ public class ModifierDemo2 {
 	public String display() {
 		
 		counter = 3;
-		//System.out.println("In display method");
+		System.out.println("In display method");
 		
 		return "Hello from display";
 		
